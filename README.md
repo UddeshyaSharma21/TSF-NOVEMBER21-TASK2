@@ -1,0 +1,2 @@
+# TSF-NOVEMBER21-TASK2
+Hey everyone, this is the second task assigned to me as an Intern at The Sparks Foundation. The task was to do Exploratory Data Analysis on the database of the retail stores to check for all the factors affecting the sales of the stores and to conclude with the practices which can be adapted to enhance the sales. For that, I have used Python Programming Language. Matplotlib library for Data Visualization, Numpy and Pandas for Data Mining and Wrangling. I hope you like the project!
